@@ -1,6 +1,7 @@
 # 💼 Business Analytics Assistant
 
-Name: Tehreem Anwar                                                                                     Email: tehreemhb@gmail.com
+Name: Tehreem Anwar                                                                                    
+Email: tehreemhb@gmail.com
 
 An intelligent, multi-source business intelligence and conversational analytics web application built with **Streamlit**, **OpenAI**, **Pandas**, and **Plotly**. Designed specifically for multi-branch retail and restaurant chains, this tool allows operators to query complex, cross-source datasets using natural language, dynamically rendering accurate metrics, charts, and downloadable reports on the fly.
 
