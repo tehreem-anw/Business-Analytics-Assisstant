@@ -1,0 +1,25 @@
+Date,Branch,City,Item_ID,Item_Name,Footfall,Orders,Revenue
+2026-06-01,Branch A,Karachi,ITM-101,Zinger Burger,450,120,60000
+2026-06-01,Branch A,Karachi,ITM-102,Cold Coffee,450,8,2400
+2026-06-01,Branch B,Lahore,ITM-101,Zinger Burger,600,180,90000
+2026-06-01,Branch B,Lahore,ITM-102,Cold Coffee,600,140,42000
+2026-06-01,Branch C,Islamabad,ITM-101,Zinger Burger,300,70,35000
+2026-06-01,Branch C,Islamabad,ITM-102,Cold Coffee,300,50,15000
+2026-06-15,Branch A,Karachi,ITM-101,Zinger Burger,480,130,65000
+2026-06-15,Branch A,Karachi,ITM-102,Cold Coffee,480,10,3000
+2026-06-15,Branch B,Lahore,ITM-101,Zinger Burger,620,190,95000
+2026-06-15,Branch B,Lahore,ITM-102,Cold Coffee,620,155,46500
+2026-06-15,Branch C,Islamabad,ITM-101,Zinger Burger,310,75,37500
+2026-06-15,Branch C,Islamabad,ITM-102,Cold Coffee,310,52,15600
+2026-07-01,Branch A,Karachi,ITM-101,Zinger Burger,500,140,70000
+2026-07-01,Branch A,Karachi,ITM-102,Cold Coffee,500,12,3600
+2026-07-01,Branch B,Lahore,ITM-101,Zinger Burger,650,200,100000
+2026-07-01,Branch B,Lahore,ITM-102,Cold Coffee,650,160,48000
+2026-07-01,Branch C,Islamabad,ITM-101,Zinger Burger,850,90,45000
+2026-07-01,Branch C,Islamabad,ITM-102,Cold Coffee,850,60,18000
+2026-07-15,Branch A,Karachi,ITM-101,Zinger Burger,520,145,72500
+2026-07-15,Branch A,Karachi,ITM-102,Cold Coffee,520,11,3300
+2026-07-15,Branch B,Lahore,ITM-101,Zinger Burger,680,210,105000
+2026-07-15,Branch B,Lahore,ITM-102,Cold Coffee,680,170,51000
+2026-07-15,Branch C,Islamabad,ITM-101,Zinger Burger,610,40,20000
+2026-07-15,Branch C,Islamabad,ITM-102,Cold Coffee,610,25,7500
